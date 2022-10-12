@@ -2,7 +2,7 @@
 Astu News Crawler Automation
 
 
-menampilkan berita stunting (nrow:jumlah berita stunting)
+menampilkan berita stunting (nrows=jumlah berita stunting)
 https://news-stunting-api.herokuapp.com/getNews?nrows=10
 
 melakukan update berita (hanya berita stunting)
